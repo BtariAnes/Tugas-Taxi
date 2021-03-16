@@ -1,0 +1,7 @@
+D:\pemrograman\latihan\01\01\tugas taxi\bin\Debug\tugas taxi.exe.config
+D:\pemrograman\latihan\01\01\tugas taxi\bin\Debug\tugas taxi.exe
+D:\pemrograman\latihan\01\01\tugas taxi\bin\Debug\tugas taxi.pdb
+D:\pemrograman\latihan\01\01\tugas taxi\obj\Debug\tugas taxi.csprojAssemblyReference.cache
+D:\pemrograman\latihan\01\01\tugas taxi\obj\Debug\tugas taxi.csproj.CoreCompileInputs.cache
+D:\pemrograman\latihan\01\01\tugas taxi\obj\Debug\tugas taxi.exe
+D:\pemrograman\latihan\01\01\tugas taxi\obj\Debug\tugas taxi.pdb
